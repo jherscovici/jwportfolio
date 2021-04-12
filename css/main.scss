@@ -18,7 +18,7 @@ a {
 img {width: 100%;}
 
 
-.nav-container {
+.nav-container .footer-container {
     background: #6700EE;
 
     a {
@@ -26,7 +26,7 @@ img {width: 100%;}
     }
 }
 
-header {
+header .footer {
     display: flex;
     justify-content: space-between;
     padding: 2em;
